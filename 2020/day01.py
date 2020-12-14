@@ -8,11 +8,6 @@ import math
 Created on Sun Dec 13 17:26:02 2020
 
 @author: raymondzhang
-
-Advent Day 1: Prompt
-
-Given a list of numbers, find the two entries that sum to 2020
-then multiply those two numbers together.
 """
 
 def find_sum_2020 (input_list, n):
